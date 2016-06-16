@@ -1,7 +1,7 @@
 {
   "name": "obj-by-path",
   "description": "Get the value of a nested object via its path",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "config": {
     "blanket": {
       "pattern": [
